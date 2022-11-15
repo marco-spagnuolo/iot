@@ -1,0 +1,12 @@
+{
+    "ID": "OTA4ODQ0I0FRVkNIQURGRkQ1MDV0MDVXUzRkMXZ1OTlpbTlCQyM5ODU0NDIxNAo=",
+    "activationTime": "2002-04-18T00:00:00Z",
+    "customerID": "908844",
+    "description": "Test Capacity Key 4",
+    "expirationTime": "2002-05-18T00:00:00Z",
+    "key": "FAT12345",
+    "productType": "MTAS",
+    "swltID": "98544214",
+    "totalCapacity": 10,
+    "usedCapacity": 2
+    }

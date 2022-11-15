@@ -1,2 +1,2 @@
-# iot
-IoT security-based Project for the Iot-Security's exam 
+# Iot-Security
+Arduino ESP32 + Golang chaincode on Hyperledger Fabric 
